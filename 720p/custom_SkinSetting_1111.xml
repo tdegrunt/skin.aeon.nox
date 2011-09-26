@@ -1972,7 +1972,7 @@
                 <height>40</height>
                 <align>center</align>
                 <label>571</label>
-                <onclick>Skin.Reset(Home_Custom_Back_Movies_Folder)</onclick>
+                <onclick>Skin.SetString(Home_Custom_Back_Movies_Folder,special://profile/Thumbnails/Custom/Movies)</onclick>
                 <onleft>301</onleft>
                 <onright>300</onright>
                 <onup>9004</onup>
@@ -2017,7 +2017,7 @@
                 <height>40</height>
                 <align>center</align>
                 <label>571</label>
-                <onclick>Skin.Reset(Home_Custom_Back_TVShow_Folder)</onclick>
+                <onclick>Skin.SetString(Home_Custom_Back_TVShow_Folder,special://profile/Thumbnails/Custom/TV)</onclick>
                 <onleft>301</onleft>
                 <onright>300</onright>
                 <onup>9004</onup>
